@@ -3,63 +3,18 @@ m,media,
 c,cmi,
 d,cd,
 f,finanical,
-m-kn,kpi name,m
-m-kd,kpi defination,m
-m-kf,kpi formula,m
-m-s,source,m
-m-rf,refresh frequency,m
-m-hr,histroy retention,m
-m-cl,consumption layer,m
-m-ap,aggregation product,m
-m-gp,granularity product,m
-m-ag,aggregation geography,m
-m-at,aggregation time,m
-m-gt,granularity time,m
-m-kt,kpi type,m
-m-ds,data source,m
-m-cc,competition,m
-c-kn,kpi name,c
-c-kd,kpi defination,c
-c-kf,kpi formula,c
-c-s,source,c
-c-rf,refresh frequency,c
-c-hr,histroy retention,c
-c-cl,consumption layer,c
-c-ap,aggregation product,c
-c-gp,granularity product,c
-c-ag,aggregation geography,c
-c-at,aggregation time,c
-c-gt,granularity time,c
-c-kt,kpi type,c
-c-ds,data source,c
-c-cc,competition,c
-d-kn,kpi name,d
-d-kd,kpi defination,d
-d-kf,kpi formula,d
-d-s,source,d
-d-rf,refresh frequency,d
-d-hr,histroy retention,d
-d-cl,consumption layer,d
-d-ap,aggregation product,d
-d-gp,granularity product,d
-d-ag,aggregation geography,d
-d-at,aggregation time,d
-d-gt,granularity time,d
-d-kt,kpi type,d
-d-ds,data source,d
-d-cc,competition,d
-f-kn,kpi name,f
-f-kd,kpi defination,f
-f-kf,kpi formula,f
-f-s,source,f
-f-rf,refresh frequency,f
-f-hr,histroy retention,f
-f-cl,consumption layer,f
-f-ap,aggregation product,f
-f-gp,granularity product,f
-f-ag,aggregation geography,f
-f-at,aggregation time,f
-f-gt,granularity time,f
-f-kt,kpi type,f
-f-ds,data source,f
-f-cc,competition,f
+m-kn,Normalized Gross Rating Point [NGRPs 30s],m
+m-kd,reach,m
+m-kf,spends,m
+,,
+c-kn,Numeric Distribution,c
+c-kd,Penetration,c
+c-kf,No.of House holds,c
+,,
+d-kn,primary sales,d
+d-kd,secondary sales,d
+d-kf,ECO,d
+,,
+f-kn,Turnover,f
+f-kd,GSV,f
+f-kf,GM,f
